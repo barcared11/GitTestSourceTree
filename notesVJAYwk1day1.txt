@@ -1,0 +1,19 @@
+spring [MVC, BATCH, CLOUD, AOP]
+hibernate [orm] 
+Java Design Patterns
+Web Services[SOAP/REST]
+IBATIS
+Multithreading - multitasking, multiprocessing
+JUnit testing
+
+1016827
+
+
+checked exception - check at compile
+unchecked ''' - check at runtime
+
+for wednsday assessment 
+apply design patterns- use design factory method
+interface
+customexception [ie. class .. extends exception]
+collection[arraylist, hashmap]
